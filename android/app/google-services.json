@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232801399086",
+    "firebase_url": "https://careforceone-df302.firebaseio.com",
+    "project_id": "careforceone-df302",
+    "storage_bucket": "careforceone-df302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232801399086:android:6bdb0be2ae014c19354abf",
+        "android_client_info": {
+          "package_name": "com.careportmd.careforceone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232801399086-regv7kg2n4ur3kftj9f46l7ar5tiearn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJCKm4S6K1S4G1O5xYdr0MjYNpswfGf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232801399086-regv7kg2n4ur3kftj9f46l7ar5tiearn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232801399086-ln8c50k00s6f6vcvkb7riob68ma115t3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.careportmd.careforceone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
